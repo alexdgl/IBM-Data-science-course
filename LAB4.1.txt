@@ -1,3 +1,5 @@
+Exercises run on datasette software
+
 <LAB1>
 SELECT * from filmlocations WHERE year=2001;
 
