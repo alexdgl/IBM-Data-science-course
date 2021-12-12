@@ -1,2 +1,2 @@
-# IBM Data science course
- labs of the various modules of the course
+# IBM Data science course on edx.org
+exercises of the various modules of the course

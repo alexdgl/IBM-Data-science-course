@@ -1,0 +1,4 @@
+Data Modelling focuses on developing models that are either descriptive or predictive.
+An example of a descriptive model might examine things like: if a person did this,
+then they're likely to prefer that.
+A predictive model tries to yield yes/no, or stop/go type outcomes.
